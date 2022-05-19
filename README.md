@@ -1,12 +1,13 @@
 ![image](https://user-images.githubusercontent.com/6468571/169415768-b4f3c843-431b-4423-9ff2-012319cba8b4.png)
+![image](https://user-images.githubusercontent.com/6468571/169420299-b05fe9a3-4b36-4ea2-b601-0362a781a76f.png)
 
 [![Docker Pulls](https://img.shields.io/docker/cloud/build/web3pablo/dockertor.svg?style=flat-square)](https://hub.docker.com/r/web3pablo/dockertor/)
 
-## Dockertor is the most popular application for running a load-balanced Tor proxy pool inside a Docker container. 
-
-### Torproxy invented this application and is also responsible for its upkeep.
+### Dockertor is the most popular application for running a load-balanced Tor proxy pool inside a Docker container
 
 With The Dockertor you can Mix and match (IP rotation, country selection of the exit node, etc). Linux Privoxy HTTP proxy containerized HTTP and Socks are supported by HAProxy. Docker does not need root privileges.
+
+![image](https://user-images.githubusercontent.com/6468571/169420299-b05fe9a3-4b36-4ea2-b601-0362a781a76f.png)
 
 ![image](https://user-images.githubusercontent.com/6468571/169418204-f03647ce-2d32-4ef9-aa21-40216a531893.png)
 
@@ -34,6 +35,7 @@ This container's basis consists of both a load-balancing Tor pool and an HTTP pr
 
 ![image](https://user-images.githubusercontent.com/6468571/169418029-901a8e5c-38db-46c8-ad8a-1c8e6ed98dcc.png)
 
+![image](https://user-images.githubusercontent.com/6468571/169420299-b05fe9a3-4b36-4ea2-b601-0362a781a76f.png)
 
 ![image](https://user-images.githubusercontent.com/6468571/169418122-bf8191be-2d9b-4b6c-9acf-0100dfee9537.png)
 
@@ -111,6 +113,7 @@ services:
       - "9300:9300"
       - "9500:9500"
 ```
+![image](https://user-images.githubusercontent.com/6468571/169420299-b05fe9a3-4b36-4ea2-b601-0362a781a76f.png)
 
 ![image](https://user-images.githubusercontent.com/6468571/169418260-7311e4c5-356e-4d25-a658-0af37b117e6a.png)
 
@@ -207,6 +210,7 @@ No, it doesn't. You will need to make use of a different software that is famili
 
 ![image](https://user-images.githubusercontent.com/6468571/169419450-23e97fde-b619-4841-9d0e-e47475d915de.png)
 
+![image](https://user-images.githubusercontent.com/6468571/169420299-b05fe9a3-4b36-4ea2-b601-0362a781a76f.png)
 
 ![image](https://user-images.githubusercontent.com/6468571/169418292-e9af8850-21dc-4c4f-abc8-a724fc6c15a0.png)
 
